@@ -29,4 +29,4 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/CodeContriever/NFT-preview-card-component.git
+- Solution URL:  https://codecontriever.github.io/NFT-Preview-Card-Component/
